@@ -1,0 +1,1 @@
+`seed.sql` - This file contains SQL commands to populate the database with initial data for testing and development purposes.
