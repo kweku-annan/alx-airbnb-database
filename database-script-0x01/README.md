@@ -1,0 +1,1 @@
+`schema.sql` - This file contains the SQL commands to create the database schema, including tables, and indexes.

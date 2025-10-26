@@ -74,3 +74,8 @@ CREATE TABLE IF NOT EXISTS "message" (
     sent_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+
+CREATE INDEX [users_index_01] ON users (email);
+CREATE INDEX [users_index_02] ON users (user_id);
+CREATE INDEX [properties_index_01] ON properties (property_id);
+CREATE INDEX [bookings_index_01] ON bookings (booking_id);
