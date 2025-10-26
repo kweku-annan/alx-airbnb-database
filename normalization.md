@@ -1,0 +1,3 @@
+- The Schema already satisfies 1NF (First Normal Form) as all attributes contain only atomic values.
+- The Schema satisfies 2NF (Second Normal Form) since all non-key attributes are fully functionally dependent on the primary key.
+- The Schema satisfies 3NF (Third Normal Form) as there are no transitive dependencies
